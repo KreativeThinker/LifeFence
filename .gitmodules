@@ -1,8 +1,8 @@
-[submodule "lifefence-frontend"]
-	path = lifefence-frontend
-	url = https://github.com/KreativeThinker/lifefence-frontend
-  branch = main
-[submodule "lifefence-backend"]
+[submodule "backend"]
 	path = lifefence-backend
 	url = https://github.com/KreativeThinker/lifefence-backend
-  branch = main
+	branch = main
+[submodule "frontend"]
+	path = lifefence-frontend
+	url = https://github.com/KreativeThinker/lifefence-frontend
+	branch = main
