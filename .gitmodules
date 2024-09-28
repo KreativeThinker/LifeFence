@@ -1,0 +1,6 @@
+[submodule "lifefence-frontend"]
+	path = lifefence-frontend
+	url = https://github.com/KreativeThinker/lifefence-frontend
+[submodule "lifefence-backend"]
+	path = lifefence-backend
+	url = https://github.com/KreativeThinker/lifefence-backend
