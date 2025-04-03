@@ -16,13 +16,10 @@ Ensure you have the following installed on your system:
 - **Backend**:
   - [Python](https://www.python.org/)
   - [FastAPI](https://fastapi.tiangolo.com/)
-  - [Supabase](https://supabase.io/)
+  - [Supabase](https://supabase.io/) (PostgreSQL)
 - **Frontend**:
 
   - [Flutter](https://flutter.dev/)
-
-- **Database**:
-  - Supabase (PostgreSQL)
 
 ## Project Structure
 
