@@ -37,14 +37,12 @@ The project is organized into three main directories:
 ## Project Features
 
 - **Geofencing API**: Determine when a faculty member enters or exits a geofenced zone.
-- **Attendance Tracking**: Automate attendance marking based on real-time location data.
 - **Authentication**: JWT-based user authentication and authorization.
-- **Supabase Integration**: Seamless integration with the Supabase database for storing user data, attendance logs, and geofencing information.
-- **Automated Attendance**: Automatically marks attendance based on the user's location within predefined geofencing zones.
+- **Automated Attendance Tracking**: Automatically marks attendance based on the user's location within predefined geofencing zones.
 - **Real-time Location Tracking**: Tracks the real-time location of users to ensure accurate attendance records.
 - **Cross-platform Support**: Provides a seamless user experience across Android, iOS, and web platforms.
-- **User Authentication**: Secure authentication mechanism to ensure only authorized users can access the system.
 - **Comprehensive Reports**: Generates detailed attendance reports and analytics for faculty and administrators.
+- **Supabase Integration**: Seamless integration with the Supabase database for storing user data, attendance logs, and geofencing information.
 - **Scalable Architecture**: Built with scalability in mind to accommodate growing numbers of users and geofencing zones.
 
 ## Installation
